@@ -6,7 +6,7 @@ title: Epístola a Diogneto
 ## Capítulo [1](#c1): Ocasión de la Epístola.
 {:#c1}
 
-[1:1](#c1-1) Como veo, muy excelente Diogneto, que tienes gran interés en comprender la religión de los cristianos, y que tus preguntas respecto a los mismos son hechas de modo preciso y cuidadoso, sobre el Dios en quien confían y cómo le adoran, y que no tienen en consideración el mundo y desprecian la muerte, y no hacen el menor caso de los que son tenidos por dioses por los griegos, ni observan la superstición de los judíos, y en cuanto a la naturaleza del afecto que se tienen los unos por los otros, y de este nuevo desarrollo o interés, que ha entrado en las vidas de los hombres ahora, y no antes: te doy el parabién por este celo, y pido a Dios, que nos proporciona tanto el hablar como el oír, que a mí me sea concedido el hablar de tal forma que tú puedas ser hecho mejor por el ofr, y a ti que puedas escuchar de modo que el que habla no se vea decepcionado.
+[1:1](#c1-1) Como veo, muy excelente Diogneto, que tienes gran interés en comprender la religión de los cristianos, y que tus preguntas respecto a los mismos son hechas de modo preciso y cuidadoso, sobre el Dios en quien confían y cómo le adoran, y que no tienen en consideración el mundo y desprecian la muerte, y no hacen el menor caso de los que son tenidos por dioses por los griegos, ni observan la superstición de los judíos, y en cuanto a la naturaleza del afecto que se tienen los unos por los otros, y de este nuevo desarrollo o interés, que ha entrado en las vidas de los hombres ahora, y no antes: te doy el parabién por este celo, y pido a Dios, que nos proporciona tanto el hablar como el oír, que a mí me sea concedido el hablar de tal forma que tú puedas ser hecho mejor por el oír, y a ti que puedas escuchar de modo que el que habla no se vea decepcionado.
 {:#c1-1}
 
 ## Capítulo [2](#c2): La vanidad de los ídolos.
@@ -309,6 +309,7 @@ title: Epístola a Diogneto
 {:#c11-8}
 
 ## Capítulo [12](#c12): La importancia del conocimiento para la verdadera vida espiritual.
+{:#c12}
 
 [12:1](#c12-1) Confrontados con estas verdades y escuchándolas con atención, sabréis cuánto concede Dios a aquellos que (le) aman rectamente, que pasan a ser un Paraíso de deleite, un árbol que lleva toda clase de frutos y que florece, creciendo en sí mismos y adornados con vanos frutos.
 {:#c12-1}
