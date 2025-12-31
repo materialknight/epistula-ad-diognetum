@@ -1,0 +1,17 @@
+{
+   "name": "Epístola a Diogneto",
+   "short_name": "Epístola a Diogneto",
+   "description": "Edición digital de la Epístola a Diogneto, cuyo nombre latino es «Epistula ad Diognetum».",
+   "theme_color": "#e5fafd",
+   "background_color": "#e5fafd",
+   "display": "minimal-ui",
+   "orientation": "any",
+   "start_url": "/epistula-ad-diognetum/",
+   "icons": [
+      {
+         "src": "./assets/images/favicon.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ]
+}

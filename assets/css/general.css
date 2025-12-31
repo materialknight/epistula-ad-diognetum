@@ -1,0 +1,159 @@
+@import "custom.css";
+
+p {
+   font-size: 1rem;
+}
+
+#font-options>label {
+   display: grid;
+   gap: 5px;
+}
+
+#font-size-select {
+   padding: 5px;
+   font-size: 16px;
+   width: fit-content;
+   justify-self: center;
+}
+
+.hemistich {
+   display: block;
+}
+
+blockquote {
+   font-style: normal;
+   letter-spacing: normal;
+   color: #646161;
+}
+
+.right-aligned {
+   text-align: right;
+}
+
+.center-aligned {
+   text-align: center;
+}
+
+/* Buttons: */
+
+[popovertarget=toc] {
+   position: fixed;
+   inset: auto 37px 37px auto;
+   width: 42px;
+   height: 42px;
+   cursor: pointer;
+   border: 2px solid black;
+   background-color: aliceblue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+/* [popovertarget=marked-verses] {
+   position: fixed;
+   inset: auto 87px 37px auto;
+   width: 42px;
+   height: 42px;
+   cursor: pointer;
+   border: 2px solid black;
+   background-color: aliceblue;
+   fill: forestgreen;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+} */
+
+[popovertarget=font-options] {
+   position: fixed;
+   inset: auto 137px 37px auto;
+   width: 42px;
+   height: 42px;
+   cursor: pointer;
+   border: 2px solid black;
+   background-color: aliceblue;
+   fill: teal;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+[popovertarget=toc]:active,
+[popovertarget=marked-verses]:active,
+[popovertarget=font-options]:active {
+   background-color: burlywood;
+}
+
+[popovertarget=toc]:hover,
+[popovertarget=marked-verses]:hover,
+[popovertarget=font-options]:hover {
+   background-color: cornsilk;
+}
+
+/* Images: */
+
+.small-img-container {
+   display: flex;
+   gap: 20px;
+   margin-bottom: 15px;
+
+   img {
+      border: 1px solid black;
+   }
+}
+
+.big-img-container {
+   display: grid;
+   justify-items: center;
+   gap: 10px;
+
+   img {
+      width: 240px;
+      height: 240px;
+   }
+}
+
+.qr-code-str {
+   border: 1px solid black;
+   padding: 6px;
+}
+
+/* #toc,
+#marked-verses,
+#font-options {
+   padding: 20px;
+   overflow-y: auto;
+   max-height: 70vh;
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+} */
+
+.upper-roman {
+   list-style-type: upper-roman;
+   border-left: none
+}
+
+#markdown-toc {
+   margin: 0;
+   list-style-type: none;
+}
+
+[popover] {
+   padding: 20px;
+   overflow-y: auto;
+   max-height: 70vh;
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+}
+
+h5,
+h6 {
+   font-size: 20px;
+}
+
+@media screen and (max-width: 800px) {
+
+   h5,
+   h6 {
+      font-size: 18px;
+   }
+}

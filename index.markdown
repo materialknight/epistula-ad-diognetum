@@ -1,7 +1,17 @@
 ---
-layout: home
+layout: page
 title: Epístola a Diogneto
 ---
+
+{% include toc-component.md %}
+
+<script type="module" src="assets/js/index.js"></script>
+
+## Introducción de los Editores.
+
+Esta obra fue escrita originalmente en griego *koiné* (= popular). Su título latino es «Epistula ad Diognetum» («Epístola a Diogneto»). Es una carta escrita por un autor desconocido a un tal Diogneto, cuya identidad también se desconoce.
+
+La Epístola a Diogneto es una apología (defensa) del cristianismo. Las dataciones más tempranas la sitúan en la primera mitad del siglo II. Fue descubierta en 1436 en una pila de papel para envolver pescado en una pescadería de Constantinopla. Ese manuscrito original fue destruido en el incendio de la Biblioteca de Estrasburgo durante el asedio de 1870 en la Guerra Franco-Prusiana, pero para entonces ya había sido copiado y publicado.
 
 ## Capítulo [1](#c1): Ocasión de la Epístola.
 {:#c1}
@@ -338,7 +348,7 @@ title: Epístola a Diogneto
 [12:9](#c12-9) y la salvación es establecida, y los apóstoles son llenados de entendimiento, y la pascua del Señor prospera, y las congregaciones son juntadas, y [todas las cosas] son puestas en orden, y como Él enseña a los santos el Verbo se alegra, por medio del cual el Padre es glorificado, a quien sea la gloria para siempre jamás. Amén.
 {:#c12-9}
 
-## Notas
+## Notas.
 
 [12:5](#c12-5) Cp. 1 Corintios 8:1.
 {:#n12-5}
