@@ -5,8 +5,6 @@ title: Epístola a Diogneto
 
 {% include toc-component.md %}
 
-<script type="module" src="assets/js/index.js"></script>
-
 ## Introducción de los Editores.
 
 Esta obra fue escrita originalmente en griego *koiné* (= popular). Su título latino es «Epistula ad Diognetum» («Epístola a Diogneto»). Es una carta escrita por un autor desconocido a un tal Diogneto, cuya identidad también se desconoce.
